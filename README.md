@@ -1,8 +1,8 @@
 # MCC封面產生器
 
-## Demo
+## 產生器
 
-[這裡](http://islenny.github.io/MCC)
+[產生器](http://islenny.github.io/MCC)
 
 
 ## 簡介
